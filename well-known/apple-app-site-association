@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "WXA8WKRKZW.com.camileancines.LabelMD",
+        "paths": ["/premium", "/premium/*"]
+      }
+    ]
+  }
+}
